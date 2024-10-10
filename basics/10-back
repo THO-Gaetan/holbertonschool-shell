@@ -1,2 +1,2 @@
 #!/bin/bash
-mv pwd ..
+mv pwd ./pwd
