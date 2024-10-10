@@ -1,2 +1,2 @@
 #!/bin/bash
-mv 10-back..
+mv ./
