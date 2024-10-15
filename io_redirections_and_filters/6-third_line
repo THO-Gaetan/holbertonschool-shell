@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta | grep "Alea iacta est (\"The die is cast\")" "Suetonius"
+cat iacta | grep "Alea iacta est (\"The die is cast\")" iacta
