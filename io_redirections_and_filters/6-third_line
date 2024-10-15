@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "With this step" iacta
+head -n 3 iacta | tail 1
