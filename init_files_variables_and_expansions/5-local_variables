@@ -1,2 +1,2 @@
 #!/bin/bash
-diff set.sorted printenv.sorted
+echo set;env;declare -f
