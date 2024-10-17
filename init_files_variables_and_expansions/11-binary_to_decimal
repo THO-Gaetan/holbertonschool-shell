@@ -1,2 +1,2 @@
 #!/bin/bash
-echo DECIMAL=$((2#$BINARY))
+echo -e DECIMAL=$((2#$BINARY))\n
