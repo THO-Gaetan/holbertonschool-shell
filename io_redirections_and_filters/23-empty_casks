@@ -1,2 +1,2 @@
 #!/bin/bash
-ls .aR | tr ' ' '\n' 
+find . -empty -printf '%p\n'
