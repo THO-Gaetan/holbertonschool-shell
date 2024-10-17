@@ -1,2 +1,2 @@
 #!/bin/bash
-echo export BINARY=$((2#$BINARY))\n
+export $((2#$BINARY))
